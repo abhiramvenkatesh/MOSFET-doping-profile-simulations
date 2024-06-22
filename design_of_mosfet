@@ -81,8 +81,8 @@ Plot(FilePrefix="n@node@_Vgs1" Time=(1))
       Goal { name= "drain" voltage= @Vd@  } 
     ){ Coupled { Poisson Electron Hole}
 Plot(FilePrefix="n@node@_V0" Time=(0))
-Plot(FilePrefix="n@node@_Vd25" Time=(0.005))Plot(FilePrefix="n@node@_Vd50" Time=(0.01))Plot(FilePrefix="n@node@_Vd75" Time=(0.015))Plot(FilePrefix="n@node@_Vd100" Time=(0.02))Plot(FilePrefix="n@node@_Vd125" Time=(0.025))                   Plot(FilePrefix="n@node@_Vd150" Time=(0.03))Plot(FilePrefix="n@node@_Vd175" Time=(0.035))Plot(FilePrefix="n@node@_Vd200" Time=(0.04))Plot(FilePrefix="n@node@_Vd1" Time=(0.2))Plot(FilePrefix="n@node@_Vd2
-
+Plot(FilePrefix="n@node@_Vd25" Time=(0.005))Plot(FilePrefix="n@node@_Vd50" Time=(0.01))Plot(FilePrefix="n@node@_Vd75" Time=(0.015))Plot(FilePrefix="n@node@_Vd100" Time=(0.02))Plot(FilePrefix="n@node@_Vd125" Time=(0.025))   
+Plot(FilePrefix="n@node@_Vd150" Time=(0.03))Plot(FilePrefix="n@node@_Vd175" Time=(0.035))Plot(FilePrefix="n@node@_Vd200" Time=(0.04))Plot(FilePrefix="n@node@_Vd1" Time=(0.2))Plot(FilePrefix="n@node@_Vd2
 " Time=(0.4))Plot(FilePrefix="n@node@_Vd3" Time=(0.6))Plot(FilePrefix="n@node@_Vd4" Time=(0.8))Plot(FilePrefix="n@node@_Vd5" Time=(1))
     }
 }Electrode {
